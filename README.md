@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marinadethomas
+- 👋 Hi, I’m **Marina DeThomas**
 - 👀 I’m interested in **web sourcing**
 - 🌱 I’m currently learning about **data scraping**, **linkedin scraping**, **google scraping**
 - 💞️ I’m looking to collaborate on **technical recruiting best practices**
